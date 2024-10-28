@@ -3,7 +3,7 @@
   "header": {
     "description": "次元追加アドオン",
     "name": "次元追加アドオン",
-    "uuid": "あなたのユニークなUUID1",
+    "uuid": "fe1ef1e0-1aa7-6832-07dc-15004b2efe36",
     "version": [1, 0, 0],
     "min_engine_version": [1, 20, 0]
   },
@@ -11,13 +11,13 @@
     {
       "description": "次元追加アドオン",
       "type": "data",
-      "uuid": "あなたのユニークなUUID2",
+      "uuid": "bc76e4bd-8ebc-7054-713a-8c45c159e783",
       "version": [1, 0, 0]
     },
     {
       "description": "次元追加アドオン リソース",
       "type": "resources",
-      "uuid": "あなたのユニークなUUID3",
+      "uuid": "e20e3cc8-53f2-5ba7-8c95-4c85971bc2bd",
       "version": [1, 0, 0]
     }
   ]
