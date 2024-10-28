@@ -1,0 +1,24 @@
+{
+  "format_version": "2",
+  "header": {
+    "description": "次元追加アドオン",
+    "name": "次元追加アドオン",
+    "uuid": "あなたのユニークなUUID1",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "description": "次元追加アドオン",
+      "type": "data",
+      "uuid": "あなたのユニークなUUID2",
+      "version": [1, 0, 0]
+    },
+    {
+      "description": "次元追加アドオン リソース",
+      "type": "resources",
+      "uuid": "あなたのユニークなUUID3",
+      "version": [1, 0, 0]
+    }
+  ]
+}
