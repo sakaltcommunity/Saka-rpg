@@ -11,7 +11,7 @@
       "minecraft:enchantable": {
         "value": 15,
         "slot": "sword"
-      }
+      },
       "minecraft:durability": {
         "max_durability": 400
       },
