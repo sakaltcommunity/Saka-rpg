@@ -1,0 +1,17 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "sakarpg:copper_sword",
+      "category": "combat"
+    },
+    "components": {
+      "minecraft:icon": "copper_sword",
+      "minecraft:damage": 6,
+      "minecraft:durability": {
+        "max_durability": 171
+      },
+      "minecraft:cooldown": 10
+    }
+  }
+}
