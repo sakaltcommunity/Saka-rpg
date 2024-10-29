@@ -8,6 +8,10 @@
     "components": {
       "minecraft:icon": "rosite_sword",
       "minecraft:damage": 6.5,
+      "minecraft:enchantable": {
+        "value": 15,
+        "slot": "sword"
+      }
       "minecraft:durability": {
         "max_durability": 400
       },
