@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": " Addon - Resources",
+    "name": "アドオン - リソース",
+    "uuid": "123e4567-e89b-12d3-a456-426614174001",
+    "version": [1, 0, 0]
+  },
+  "modules": [
+    {
+      "description": "アドオンテクスチャ",
+      "type": "data",
+      "uuid": "987e6543-e21b-12d3-a456-426614174002",
+      "version": [1, 0, 0]
+    }
+  ]
+}
