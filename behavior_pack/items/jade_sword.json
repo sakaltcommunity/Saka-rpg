@@ -1,0 +1,21 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "sakarpg:jade_sword",
+      "category": "combat"
+    },
+    "components": {
+      "minecraft:icon": "jade_sword",
+      "minecraft:damage": 9,
+      "minecraft:enchantable": {
+        "value": 6,
+        "slot": "sword"
+      },
+      "minecraft:durability": {
+        "max_durability": 1677
+      },
+      "minecraft:cooldown": 12
+    }
+  }
+}
